@@ -1,0 +1,53 @@
+C:\Users\roichman\source\repos\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe.config
+C:\Users\roichman\source\repos\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe
+C:\Users\roichman\source\repos\Demo\MagmaDemo\bin\Debug\MagmaDemo.pdb
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.csprojAssemblyReference.cache
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.Form1.resources
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.Properties.Resources.resources
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.GenerateResource.cache
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.CoreCompileInputs.cache
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.CopyComplete
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.exe
+C:\Users\roichman\source\repos\Demo\MagmaDemo\obj\Debug\MagmaDemo.pdb
+C:\Users\roichman\source\repos\Demo\MagmaDemo\bin\Debug\ClassLibrary.dll
+C:\Users\roichman\source\repos\Demo\MagmaDemo\bin\Debug\ClassLibrary.pdb
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Form1.resources
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Properties.Resources.resources
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.GenerateResource.Cache
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe.config
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.pdb
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\bin\Debug\ClassLibrary.dll
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\bin\Debug\ClassLibrary.pdb
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csprojResolveAssemblyReference.cache
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.exe
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.pdb
+C:\Users\Ran\Downloads\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Login.resources
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe.config
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.pdb
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\bin\Debug\ClassLibrary.dll
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\bin\Debug\ClassLibrary.pdb
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csprojAssemblyReference.cache
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Form1.resources
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Login.resources
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Properties.Resources.resources
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.GenerateResource.cache
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.CoreCompileInputs.cache
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.CopyComplete
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.exe
+C:\Users\roichman\Downloads\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.pdb
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe.config
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.exe
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\bin\Debug\MagmaDemo.pdb
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\bin\Debug\ClassLibrary.dll
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\bin\Debug\ClassLibrary.pdb
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csprojAssemblyReference.cache
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Form1.resources
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Login.resources
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.Properties.Resources.resources
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.GenerateResource.cache
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.CoreCompileInputs.cache
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.csproj.CopyComplete
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.exe
+C:\Users\roichman\Downloads\Demo (1)\Demo\Demo\Demo\MagmaDemo\obj\Debug\MagmaDemo.pdb
